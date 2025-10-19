@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="assets/segursat-dark.svg" alt="Segursat Logo" width="100">
+    <img src="assets/segursat-dark.svg" alt="Segursat Logo">
 </p>
-
 # 🛰️ Segursat S.A.C.
 
 **Organización oficial en GitHub del área de desarrollo de Segursat S.A.C.**

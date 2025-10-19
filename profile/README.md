@@ -3,11 +3,13 @@
     <img src="assets/segursat-dark.svg#gh-dark-mode-only" alt="Segursat Logo">
 </p>
 
+<div align="center">
+
 **Organización oficial en GitHub del área de desarrollo de Segursat S.A.C.**
-
 📍 *San Isidro, Lima – Perú*
+🌐 <a href="https://segursat.pe">segursat.pe</a>
 
-🌐 [https://segursat.pe](https://segursat.pe)
+</div>
 
 ---
 

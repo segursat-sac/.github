@@ -10,31 +10,31 @@
 ## 🚀 Sobre nosotros
 
 En **Segursat**, desarrollamos soluciones tecnológicas orientadas a la **seguridad vehicular, trazabilidad y gestión inteligente de flotas**.  
-Nuestras plataformas integran hardware GPS, conectividad IoT y software especializado para ofrecer control total y visibilidad en tiempo real.
+Integramos hardware GPS, conectividad IoT y software propio para ofrecer visibilidad en tiempo real y control operativo.
 
 ---
 
 ## 💻 Área de desarrollo
 
-El área de desarrollo impulsa la transformación digital de la empresa, construyendo herramientas web, móviles y APIs seguras que soportan la operación diaria de nuestros clientes.
+Creamos y mantenemos plataformas web/móviles y APIs seguras que soportan la operación diaria de nuestros clientes empresariales.
 
-> Todo el código contenido en esta organización es **privado** y forma parte del ecosistema tecnológico de Segursat S.A.C.
+> Todo el código en esta organización es **privado** y constituye propiedad intelectual de Segursat S.A.C.
 
 ---
 
-## 🔒 Compromisos tecnológicos
+## 🔒 Nuestros compromisos
 
-- **Seguridad y confiabilidad:** Aplicamos buenas prácticas, auditorías y pruebas continuas.  
-- **Innovación:** Incorporamos tecnologías modernas para optimizar la gestión logística y operativa.  
-- **Escalabilidad:** Nuestras plataformas crecen junto con las necesidades de cada cliente.  
-- **Confidencialidad:** Solo el personal autorizado tiene acceso a los repositorios internos.  
+- **Seguridad y confiabilidad** — buenas prácticas y pruebas continuas.  
+- **Escalabilidad** — soluciones diseñadas para crecer con el negocio.  
+- **Innovación** — adopción responsable de tecnologías modernas.  
+- **Confidencialidad** — acceso solo para personal autorizado.
 
 ---
 
 ## 🤝 Contacto
 
-Para consultas técnicas o colaboraciones institucionales:  
-📩 **dev@segursat.pe**
+Para consultas comerciales o técnicas institucionales, visita:  
+🔗 **[segursat.pe/contacto](https://segursat.pe/contacto/)**
 
 ---
 

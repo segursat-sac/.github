@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="assets/segursat-dark.svg" alt="Segursat Logo">
+    <img src="assets/segursat-light.svg#gh-dark-mode-only" alt="Segursat Logo">
+    <img src="assets/segursat-dark.svg#gh-light-mode-only" alt="Segursat Logo">
 </p>
 
 **Organización oficial en GitHub del área de desarrollo de Segursat S.A.C.**

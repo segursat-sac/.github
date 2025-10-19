@@ -6,7 +6,9 @@
 <div align="center">
 
 **Organización oficial en GitHub del área de desarrollo de Segursat S.A.C.**
+
 📍 *San Isidro, Lima – Perú*
+
 🌐 <a href="https://segursat.pe">segursat.pe</a>
 
 </div>

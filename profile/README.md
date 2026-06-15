@@ -46,5 +46,5 @@ Para consultas comerciales o técnicas institucionales, visita:
 
 ---
 
-© 2025 Segursat S.A.C. — Todos los derechos reservados.
+© 2026 Segursat S.A.C. — Todos los derechos reservados.
 El contenido de esta organización es propiedad intelectual de Segursat S.A.C.
